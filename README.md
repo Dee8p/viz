@@ -14,13 +14,13 @@ This project provides an interactive energy analytics dashboard that visualizes 
 
 ## 📁 Project Structure
 
-/energy-dashboard: README.md                             # Main project folder containing metadata and setup files
+`/viz: README.md`                             # Main project folder containing metadata and setup files
 
-/energy-dashboard/data: dataframe1.csv, dataframe2.csv                       # Input data files (CSV format with energy stats by state/year)
+`/viz/data: dataframe1.csv, dataframe2.csv`                       # Input data files (CSV format with energy stats by state/year)
 
-/energy-dashboard /outputs: golden_image.html                                # Auto-generated dashboard output (opens in browser) 
+`/viz /outputs: golden_image.html`                                # Auto-generated dashboard output (opens in browser) 
 
-/energy-dashboard/scripts: viz.py, data_gen.py                               # Python scripts: main visualization + data generator
+`/viz/scripts: viz.py, data_gen.py`                              # Python scripts: main visualization + data generator
 
 
 ---
