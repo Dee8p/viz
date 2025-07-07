@@ -26,7 +26,7 @@ energy-dashboard/
 │ └── viz.py # Main visualization script
 │ └── data_gen.py # Generates random data and stores it in the files in data dir
 ├── README.md # Project overview and usage guide
-└── requirements.txt # Python dependencies\
+
 
 ---
 
