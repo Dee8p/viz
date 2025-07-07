@@ -58,9 +58,9 @@ The CSV (dataframe1.csv) must contain at least the following columns:
 
 ### ✅ Example Row
 
-csv
-State,Year,Solar_Generation_MWh,Wind_Generation_MWh,Sales,Profit,Discount,Solar_Plants,Wind_Plants
-Texas,2024,36125,27521,2400000,1250000,3.5,25,40
+
+`State,Year,Solar_Generation_MWh,Wind_Generation_MWh,Sales,Profit,Discount,Solar_Plants,Wind_Plants
+Texas,2024,36125,27521,2400000,1250000,3.5,25,40`
 
 
 **Installing Dependencies**
