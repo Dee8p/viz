@@ -14,7 +14,7 @@ This project provides an interactive energy analytics dashboard that visualizes 
 
 ## 📁 Project Structure
 
-/energy-dashboard: README.md, requirements.txt                               # Main project folder containing metadata and setup files
+/energy-dashboard: README.md                             # Main project folder containing metadata and setup files
 
 /energy-dashboard/data: dataframe1.csv, dataframe2.csv                       # Input data files (CSV format with energy stats by state/year)
 
