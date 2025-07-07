@@ -66,14 +66,14 @@ Texas,2024,36125,27521,2400000,1250000,3.5,25,40`
 **Installing Dependencies**
 
 In the command prompt just run this code:
-pip install pandas plotly numpy
+`pip install pandas plotly numpy`
 
 
 **How to Run: **
 
-python scripts/data_gen.py // first this file to generate the data
+`python scripts/data_gen.py` // first this file to generate the data
 
-python scripts/viz.py// then this one to create a web page with dashboard.
+`python scripts/viz.py `// then this one to create a web page with dashboard.
 
 📷 **Sample Output**
 
